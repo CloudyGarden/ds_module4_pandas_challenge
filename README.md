@@ -1,1 +1,2 @@
-# ds_module4_pandas_challenge
+README.md
+In this Pandas challenge, I created Pandas DataFrames to analyze standardized testing school data. I used used Pandas to analyze school budgets, math and reading scores, passing and failing rates, among other things. I used class lectures, and the xpert to assist me in creating code for this challenge. 
